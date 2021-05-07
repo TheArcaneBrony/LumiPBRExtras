@@ -1,6 +1,6 @@
-# Lumi PBR Gla
+# Lumi PBR Extras
 
-Small extra pack to make tradional glass reflective to make it more in line with other glass types.
+Small extras pack that adds alternative PBR effects to some blocks.
 
 **[REQUIRES LUMI PBR EXT](https://github.com/spiralhalo/LumiPBRExt)**<br>
 **[REQUIRES LUMI LIGHTS](https://github.com/spiralhalo/LumiLights)**
